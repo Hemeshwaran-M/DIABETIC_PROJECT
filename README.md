@@ -11,9 +11,9 @@ https://diabeticproject-x6ttmvyws4frm5eqwmk5mr.streamlit.app/
 
 ## 📱 QR Code
 
-> Save your QR image as **qr_code.jpg** in the same folder as this README file.
-
-![QR Code](qr_code.jpg)
+<p align="center">
+  <img src="qr_code.jpg" alt="QR Code" width="180">
+</p>
 
 ---
 
