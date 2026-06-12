@@ -122,9 +122,3 @@ The application uses:
 **Hemeshwaran M**
 
 Machine Learning | Artificial Intelligence | Data Science
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
