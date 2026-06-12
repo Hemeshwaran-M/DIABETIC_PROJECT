@@ -4,19 +4,16 @@ A Machine Learning web application that predicts the likelihood of diabetes base
 
 ## 🌐 Live Application
 
-**Click here to use the application:**
-
-👉 https://diabeticproject-x6ttmvyws4frm5eqwmk5mr.streamlit.app/
+👉 **Website Link:**  
+https://diabeticproject-x6ttmvyws4frm5eqwmk5mr.streamlit.app/
 
 ---
 
 ## 📱 QR Code
 
-Scan the QR code below to access the application directly:
+> Save your QR image as **qr_code.jpg** in the same folder as this README file.
 
-<p align="center">
-  <img src="Diabetic Prediction.jpg" alt="Diabetes Prediction QR Code" width="250">
-</p>
+![QR Code](qr_code.jpg)
 
 ---
 
@@ -57,7 +54,7 @@ Diabetes_Project/
 ├── scaler.pkl
 ├── requirements.txt
 ├── README.md
-└── Diabetic Prediction.jpg
+└── qr_code.jpg
 ```
 
 ---
@@ -81,6 +78,7 @@ python train_model.py
 ```
 
 This will:
+
 - Load the diabetes dataset
 - Preprocess the data
 - Train the XGBoost model
